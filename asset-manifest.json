@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/TestTask-ContactBook/static/css/main.31d6cfe0.css",
+    "main.js": "/TestTask-ContactBook/static/js/main.243ccb98.js",
+    "index.html": "/TestTask-ContactBook/index.html",
+    "main.243ccb98.js.map": "/TestTask-ContactBook/static/js/main.243ccb98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.243ccb98.js"
+  ]
+}
